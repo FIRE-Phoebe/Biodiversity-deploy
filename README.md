@@ -1,3 +1,10 @@
-# bioplotly-deploy
+# Bioplotly-deploy
+## Overview of Bioplotly Project
 
-[Result-link] (https://fire-phoebe.github.io/bioplotly-deploy)
+## Results
+
+## Summary
+
+
+### Result-link:
+https://fire-phoebe.github.io/bioplotly-deploy
