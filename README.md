@@ -1,6 +1,6 @@
 # Biodiversity Project
 ## Overview of Biodiversity Project
-Biodiversity project uses JavaScript, Plotly and HTML to present data visualization that are attractive and accessible. We use Ploty library to create interactive features and through JavaScript to retrieve dataset. We deploy the dashboard to a cloud server that users can explore data on Belly Button Biodiversity. Our goal is to use different charts to present data results and increase audiences comprehension.
+Biodiversity project uses JavaScript, Plotly and HTML to present data visualization that are attractive and accessible. We use Ploty library to create interactive features and through JavaScript to retrieve dataset. We deploy the dashboard to a cloud server that users can explore data on Belly Button Biodiversity. Our goal is to use different charts to present data results and increase audiences' comprehension.
 
 ## Results
 - Main Page 
