@@ -35,7 +35,7 @@ Project Insights: https://docs.google.com/presentation/d/1ZxutLdzmV_5cEaDqMbq0rE
 
 - Customization Page:
 
-<img src="static/images/customize_page.PNG" width="600" height="600">
+<img src="static/images/customize_page.PNG" width="800" height="800">
 
 
 ## Summary
