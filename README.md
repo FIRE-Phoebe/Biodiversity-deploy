@@ -31,7 +31,7 @@ Project Insights: https://docs.google.com/presentation/d/1ZxutLdzmV_5cEaDqMbq0rE
 
   - Gauge Chart 
 
-  <img src="static/images/gauge_chart.PNG" width="300" height="200">
+   <img src="static/images/gauge_chart.PNG" width="300" height="200">
 
 - Customization Page:
 
