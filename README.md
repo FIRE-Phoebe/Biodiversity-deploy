@@ -35,7 +35,7 @@ Biodiversity project uses JavaScript, Plotly and HTML to present data visualizat
 
 
 ## Summary
-In the Biodiversity Project, we provide audience interactive feature which helps users to explore more information about Belly Button Biodiversity. Also, we successful automate different charts to share result foundings to audiences. In addition, we customize the page to make it more attractive.
+In the Biodiversity Project, we provide interactive features to audiences, which helps users to explore more information about Belly Button Biodiversity. Also, we successful automate different charts to share result foundings to audiences. In addition, we customize the page to make it more attractive.
 
 ### Result-link:
 https://fire-phoebe.github.io/bioplotly-deploy
