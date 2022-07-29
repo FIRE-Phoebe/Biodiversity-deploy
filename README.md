@@ -27,7 +27,7 @@ Project Insights: https://docs.google.com/presentation/d/1ZxutLdzmV_5cEaDqMbq0rE
 
   - Bubble Chart
 
-<img src="static/images/bubble_chart.PNG" width="700" height="300">
+    <img src="static/images/bubble_chart.PNG" width="700" height="300">
 
   - Gauge Chart 
 
