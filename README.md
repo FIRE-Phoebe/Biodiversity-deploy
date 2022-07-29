@@ -9,7 +9,7 @@ Project Insights: https://docs.google.com/presentation/d/1ZxutLdzmV_5cEaDqMbq0rE
 ## Results
 - Main Page 
   
-  <img src="static/images/main_page.PNG" width="600" height="600">
+  <img src="static/images/main_page.PNG" width="600" height="650">
   
 - Navigation Select Option
 
