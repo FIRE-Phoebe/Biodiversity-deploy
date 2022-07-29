@@ -23,7 +23,7 @@ Project Insights: https://docs.google.com/presentation/d/1ZxutLdzmV_5cEaDqMbq0rE
 - Result Data Present:
   - Bar Chart
 
-    <img src="static/images/bar_chart.PNG" width="400" height="350">
+    <img src="static/images/bar_chart.PNG" width="400" height="380">
 
   - Bubble Chart
 
