@@ -43,3 +43,4 @@ https://fire-phoebe.github.io/bioplotly-deploy
 ______________________________________________________________________________________________________________________________________________________________
 
 - Project Contributor: Phoebe J. Miao
+- Contact: phoebem2021data@gmail.com
