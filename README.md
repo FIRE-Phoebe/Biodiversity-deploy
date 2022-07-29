@@ -39,3 +39,7 @@ In the Biodiversity Project, we provide audience interactive feature which helps
 
 ### Result-link:
 https://fire-phoebe.github.io/bioplotly-deploy
+
+______________________________________________________________________________________________________________________________________________________________
+
+- Project Contributor: Phoebe J. Miao
